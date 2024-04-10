@@ -1,0 +1,702 @@
+[
+    {
+        "id": 0,
+        "month": "January",
+        "title": "President's Message",
+        "author": "",
+        "page": "1"
+    },
+    {
+        "id": 1,
+        "month": "January",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "2"
+    },
+    {
+        "id": 2,
+        "month": "January",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "3"
+    },
+    {
+        "id": 3,
+        "month": "January",
+        "title": "Bank of Nova Scotia contains information by the Librarian of the Bank of Nova Scotia on the history and note issues of the bank from 1832 - 1935. Includes a list of Bank Presidents and General Managers",
+        "author": "by Betty Hearn",
+        "page": "6"
+    },
+    {
+        "id": 4,
+        "month": "January",
+        "title": "More Chapters, please !",
+        "author": "",
+        "page": "8"
+    },
+    {
+        "id": 5,
+        "month": "January",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "9"
+    },
+    {
+        "id": 6,
+        "month": "January",
+        "title": "The old Masters can be wrong! an article concerning cataloguing errors made concerning Br 528 and 529 and LeRoux 532 and 533 (Quebec Bank tokens)",
+        "author": "by Major S. S. Carroll",
+        "page": "10"
+    },
+    {
+        "id": 7,
+        "month": "January",
+        "title": "1956 C.N.A. Convention",
+        "author": "",
+        "page": "11"
+    },
+    {
+        "id": 8,
+        "month": "January",
+        "title": "Acknowledgements",
+        "author": "",
+        "page": "11"
+    },
+    {
+        "id": 9,
+        "month": "January",
+        "title": "Metallurgical Aspects of Coinage with Special Reference to Nickel contains information on the metallurgical and physical characteristics of nickel, especially as these relate to minting coins.",
+        "author": "by Aubrey A. Tuttle",
+        "page": "12"
+    },
+    {
+        "id": 10,
+        "month": "February",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "21"
+    },
+    {
+        "id": 11,
+        "month": "February",
+        "title": "Early Greek Coins outline of a talk given to Chapter #1 of Ottawa January  9, 1956",
+        "author": "by Alfred E. H. Petrie",
+        "page": "22"
+    },
+    {
+        "id": 12,
+        "month": "February",
+        "title": "Britannia on the English Coinage  from Jessie’s England under the Stuarts in the Canadian Antiquarian and Numismatic Journal 1873",
+        "author": "",
+        "page": "25"
+    },
+    {
+        "id": 13,
+        "month": "February",
+        "title": "Tokens of Waterloo County a listing of approximately 100 various tokens",
+        "author": "by Fred Bowman",
+        "page": "26"
+    },
+    {
+        "id": 14,
+        "month": "February",
+        "title": "Metallurgical Aspects of Coinage with Special Reference to Nickel",
+        "author": "by Aubrey A. Tuttle",
+        "page": "28"
+    },
+    {
+        "id": 15,
+        "month": "February",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "33"
+    },
+    {
+        "id": 16,
+        "month": "February",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "37"
+    },
+    {
+        "id": 17,
+        "month": "February",
+        "title": "Ten Years Ago!",
+        "author": "by J. L. Pierre Brunet",
+        "page": "44"
+    },
+    {
+        "id": 18,
+        "month": "March",
+        "title": "Editor's Page  notes of Steps Leading to the Establishment in Ottawa of a Branch of the Royal Mint",
+        "author": "by A. P. Williams",
+        "page": "45-46"
+    },
+    {
+        "id": 19,
+        "month": "March",
+        "title": "Counterstamped or Countermarked Canadian Coins a listing of 8 countermarks on early Canadian coins and tokens",
+        "author": "by M. M. Gould",
+        "page": "48"
+    },
+    {
+        "id": 20,
+        "month": "March",
+        "title": "Numismatic Items from the Daily Pressan apocryphal tale about a card money forger sentenced to have his arms tied behind his back for three years - taken from Ripley’s ‘Believe It or Not’ and, in this case, not to be believed",
+        "author": "by Major S. S. Carroll",
+        "page": "49"
+    },
+    {
+        "id": 21,
+        "month": "March",
+        "title": "Metallurgical Aspects of Coinage with Special Reference to Nickel",
+        "author": "by Aubrey A. Tuttle",
+        "page": "51"
+    },
+    {
+        "id": 22,
+        "month": "March",
+        "title": "History of Coinsa lecture on “Coin Collecting” delivered in a museum appreciation course at the Royal Ontario of Archaeology, 28th of November, 1955",
+        "author": "by Dr. John S. Wilkinson",
+        "page": "53"
+    },
+    {
+        "id": 23,
+        "month": "March",
+        "title": "Special announcement: Western Round-Up of Coin Collectors in the Prairie Room of Drake Hotel, Regina, Saskatchewan, on May 20, 1956",
+        "author": "",
+        "page": "56"
+    },
+    {
+        "id": 24,
+        "month": "March",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "57"
+    },
+    {
+        "id": 25,
+        "month": "March",
+        "title": "New Members, etc",
+        "author": "",
+        "page": "60"
+    },
+    {
+        "id": 26,
+        "month": "March",
+        "title": "Alberta Golden Jubilee Medalinformation on medals which were given to Alberta Treaty Indians and school children of Alberta to commemorate the 50th anniversary of the province joining Confederation",
+        "author": "by J. E. Moore",
+        "page": "62"
+    },
+    {
+        "id": 27,
+        "month": "April",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "69"
+    },
+    {
+        "id": 28,
+        "month": "April",
+        "title": "Canadian Paper Moneya very fine history of Canada’s paper currency from playing-card money of the French Regime to modern notes issued by the Bank of Canada",
+        "author": "by Major S. S. Carroll",
+        "page": "70"
+    },
+    {
+        "id": 29,
+        "month": "April",
+        "title": "Coin Holders and Coinsa list of the coin holders exhibited at the February meeting of the Toronto Coin Club",
+        "author": "by Peter S. Favro",
+        "page": "75"
+    },
+    {
+        "id": 30,
+        "month": "April",
+        "title": "History of Coinsa lecture on “Coin Collecting” delivered in a museum appreciation course at the Royal Ontario Museum of Archaeology, 28th of November, 1955",
+        "author": "by Dr John S. Wilkinson",
+        "page": "77"
+    },
+    {
+        "id": 31,
+        "month": "April",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "79"
+    },
+    {
+        "id": 32,
+        "month": "April",
+        "title": "United States Currencya short section describing experiments by the U.S. Bureau of Engraving and Printing with plastic to increase the resistance to wear of paper currency",
+        "author": "by Edgar J. Tucker",
+        "page": "82"
+    },
+    {
+        "id": 33,
+        "month": "April",
+        "title": "Varieties of Canadian Coinsa description of  items exhibited at the February meeting of the Toronto Coin Club",
+        "author": "by Peter S. Favro",
+        "page": "83"
+    },
+    {
+        "id": 34,
+        "month": "April",
+        "title": "Newfoundland 1873-H 5c Discovered discovery of this rarity by Wayne Rich and Robert Friedberg independently of each other",
+        "author": "by W. S. Rich",
+        "page": "83"
+    },
+    {
+        "id": 35,
+        "month": "April",
+        "title": "Editor's Note",
+        "author": "",
+        "page": "84"
+    },
+    {
+        "id": 36,
+        "month": "April",
+        "title": "New Members, etc",
+        "author": "",
+        "page": "84"
+    },
+    {
+        "id": 37,
+        "month": "May",
+        "title": "The 1958 Convention",
+        "author": "by Guy R. L. Potter",
+        "page": "98"
+    },
+    {
+        "id": 38,
+        "month": "May",
+        "title": "Highlights of 6th International Sale",
+        "author": "by Jack W. Ogilvie",
+        "page": "98"
+    },
+    {
+        "id": 39,
+        "month": "May",
+        "title": "Edmonton TV Programs",
+        "author": "by J. E. Moore",
+        "page": "99"
+    },
+    {
+        "id": 40,
+        "month": "May",
+        "title": "An Interesting Nova Scotian Counterfeithistory of the counterfeit ‘1382’ Nova Scotia thistle token (Br 872)",
+        "author": "by Major S. S. Carroll",
+        "page": "99"
+    },
+    {
+        "id": 41,
+        "month": "May",
+        "title": "C.N.A. Convention",
+        "author": "by Walter G. Holmes",
+        "page": "101"
+    },
+    {
+        "id": 42,
+        "month": "May",
+        "title": "Canadian Coin Varietiesidentifies several varieties of Canadian and Newfoundland coins of 1875 - 1890",
+        "author": "by Jerome H. Remick",
+        "page": "102"
+    },
+    {
+        "id": 43,
+        "month": "May",
+        "title": "History of Coins",
+        "author": "by Dr. John S. Wilkinson",
+        "page": "103"
+    },
+    {
+        "id": 44,
+        "month": "May",
+        "title": "The New C.N.A.",
+        "author": "",
+        "page": "107"
+    },
+    {
+        "id": 45,
+        "month": "May",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "107"
+    },
+    {
+        "id": 46,
+        "month": "June",
+        "title": "A Message from the President",
+        "author": "",
+        "page": "121"
+    },
+    {
+        "id": 47,
+        "month": "June",
+        "title": "Non-Receipt of Journals",
+        "author": "",
+        "page": "121"
+    },
+    {
+        "id": 48,
+        "month": "June",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "122"
+    },
+    {
+        "id": 49,
+        "month": "June",
+        "title": "Exhibition of Military and Historical Canadianaconcerns an exhibit of rare Canadian military and historical medals at the Montreal Armoury of the 17th Duke of York Royal Canadian Hussars (April 17 - 28, 1956)",
+        "author": "by J. Douglas Ferguson",
+        "page": "123"
+    },
+    {
+        "id": 50,
+        "month": "June",
+        "title": "Hamilton National Coin Week Exhibit",
+        "author": "by Thelma Pelletier",
+        "page": "124"
+    },
+    {
+        "id": 51,
+        "month": "June",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "129"
+    },
+    {
+        "id": 52,
+        "month": "June",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "128"
+    },
+    {
+        "id": 53,
+        "month": "June",
+        "title": "History of Coins",
+        "author": "by Dr. John S. Wilkinson",
+        "page": "130"
+    },
+    {
+        "id": 54,
+        "month": "July",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "137"
+    },
+    {
+        "id": 55,
+        "month": "July",
+        "title": "Notice Regarding Annual Meeting",
+        "author": "",
+        "page": "138"
+    },
+    {
+        "id": 56,
+        "month": "July",
+        "title": "Western Round-Up of Coin Collectors in Regina on May 20, 1956",
+        "author": "by Martin. M. Watts",
+        "page": "138"
+    },
+    {
+        "id": 57,
+        "month": "July",
+        "title": "Summary of Major S. S. Carroll's Address to the Western Round Up in Reginaa concise history of organized numismatics in Canada",
+        "author": "",
+        "page": "141"
+    },
+    {
+        "id": 58,
+        "month": "July",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "143"
+    },
+    {
+        "id": 59,
+        "month": "July",
+        "title": "New Members, etc",
+        "author": "",
+        "page": "147"
+    },
+    {
+        "id": 60,
+        "month": "August",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "157"
+    },
+    {
+        "id": 61,
+        "month": "August",
+        "title": "The C.N.A. Convention",
+        "author": "by Walter. Holmes",
+        "page": "158"
+    },
+    {
+        "id": 62,
+        "month": "August",
+        "title": "Wooden Nickels from Lindsay, Ontarioshort description of the Carnival issue by the Lindsay Kinsman Club",
+        "author": "by V. W. O'Connor",
+        "page": "158"
+    },
+    {
+        "id": 63,
+        "month": "August",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "159"
+    },
+    {
+        "id": 64,
+        "month": "August",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "160"
+    },
+    {
+        "id": 65,
+        "month": "August",
+        "title": "History of Coins",
+        "author": "by Dr. John S. Wilkinson",
+        "page": "161"
+    },
+    {
+        "id": 66,
+        "month": "September",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "177"
+    },
+    {
+        "id": 67,
+        "month": "September",
+        "title": "The W.W.C. Wilson Collectionbiographical notes on this important collector as well as highlights from the Canadian lots featured from his collection in Wayte Raymond’s auction sales (1925 - 1928) - well worth reviewing however no reference is made to specific auction sales for specific lots",
+        "author": "by Fred Bowman",
+        "page": "178"
+    },
+    {
+        "id": 68,
+        "month": "September",
+        "title": "New Variety of 1923 One Dollar Billreport of a 1923 Dominion of Canada one dollar note with the signature combination ‘Campbell-Sellars’ and a lilac seal instead of the usual black seal",
+        "author": "by Robert L. Low",
+        "page": "180"
+    },
+    {
+        "id": 69,
+        "month": "September",
+        "title": "History of Coins",
+        "author": "by Dr. John S. Wilkinson",
+        "page": "180"
+    },
+    {
+        "id": 70,
+        "month": "September",
+        "title": "Forms of Chinese Money up to A.D. 1600outline of a talk given to Chapter #1 of Ottawa April 9, 1956",
+        "author": "by Alfred E. H. Petrie",
+        "page": "184"
+    },
+    {
+        "id": 71,
+        "month": "September",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "188"
+    },
+    {
+        "id": 72,
+        "month": "September",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "189"
+    },
+    {
+        "id": 73,
+        "month": "October",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "197"
+    },
+    {
+        "id": 74,
+        "month": "October",
+        "title": "Fourth Annual Convention of The Canadian Numismatic Association",
+        "author": "by Byron A. Swayze",
+        "page": "198"
+    },
+    {
+        "id": 75,
+        "month": "October",
+        "title": "Canadian Decorations and Medalsa very fine summary of the different military, political, commemorative and other types of medals and decorations issued within Canada",
+        "author": "by J. Douglas Ferguson",
+        "page": "200"
+    },
+    {
+        "id": 76,
+        "month": "October",
+        "title": "The $25 Canadian Bank-Noteprinting, issue and still outstanding information on the French and English issues of 1935",
+        "author": "",
+        "page": "204"
+    },
+    {
+        "id": 77,
+        "month": "October",
+        "title": "Forms of Chinese Money up to A.D. 1600",
+        "author": "by Alfred E. H. Petrie",
+        "page": "205"
+    },
+    {
+        "id": 78,
+        "month": "October",
+        "title": "Outline of a talk given to Chapter #1 of Ottawa April 9, 1956",
+        "author": "",
+        "page": ""
+    },
+    {
+        "id": 79,
+        "month": "October",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "209"
+    },
+    {
+        "id": 80,
+        "month": "October",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "210"
+    },
+    {
+        "id": 81,
+        "month": "November",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "217"
+    },
+    {
+        "id": 82,
+        "month": "November",
+        "title": "No more Chapters",
+        "author": "",
+        "page": "218"
+    },
+    {
+        "id": 83,
+        "month": "November",
+        "title": "Numismatic Exhibition at Victoria, B.C.description of the display from November 11 to 25, 1956",
+        "author": "by Allan Klenman",
+        "page": "218"
+    },
+    {
+        "id": 84,
+        "month": "November",
+        "title": "A Proposed Classification of Canadian and Newfoundland Die Varietiesproposal to distinguish between legitimate design changes and unintentional minor and major die variations",
+        "author": "by Jerome H. Remick",
+        "page": "219"
+    },
+    {
+        "id": 85,
+        "month": "November",
+        "title": "New Members please note",
+        "author": "",
+        "page": "220"
+    },
+    {
+        "id": 86,
+        "month": "November",
+        "title": "Trial of the Pyxdescribes the testing of mintages",
+        "author": "by Sir John Craig",
+        "page": "221"
+    },
+    {
+        "id": 87,
+        "month": "November",
+        "title": "Caveat Emptor warning about conterfeit coins",
+        "author": "",
+        "page": "222"
+    },
+    {
+        "id": 88,
+        "month": "November",
+        "title": "The Evolution of the Currency in British North Americaprimarily an economic history of the Canadian provinces before Confederation. Includes details of historical information on the development and growth of colonial Canada as well as details of coinages, exchange rates and currency standards",
+        "author": "by Peter S. Favro",
+        "page": "223"
+    },
+    {
+        "id": 89,
+        "month": "November",
+        "title": "On Canada's First Coinsexcerpt from Documents relating to Canadian Currency, Exchange and Finance during the French Period>",
+        "author": "by Adam Shortt",
+        "page": "226"
+    },
+    {
+        "id": 90,
+        "month": "November",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "227"
+    },
+    {
+        "id": 91,
+        "month": "November",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "228"
+    },
+    {
+        "id": 92,
+        "month": "December",
+        "title": "A Message from the President",
+        "author": "",
+        "page": "237"
+    },
+    {
+        "id": 93,
+        "month": "December",
+        "title": "Editor's Page",
+        "author": "",
+        "page": "238"
+    },
+    {
+        "id": 94,
+        "month": "December",
+        "title": "Communion Tokensa fine history of the use of communion tokens in the Presbyterian Church by early Canadian settlers from Scotland",
+        "author": "by H. C. Taylor",
+        "page": "239"
+    },
+    {
+        "id": 95,
+        "month": "December",
+        "title": "The Evolution of the Currency in British North America",
+        "author": "by Peter S. Favro",
+        "page": "243"
+    },
+    {
+        "id": 96,
+        "month": "December",
+        "title": "Pt III Vol. 2 no. 2, p. 24 - 27",
+        "author": "",
+        "page": ""
+    },
+    {
+        "id": 97,
+        "month": "December",
+        "title": "Pt IV Vol. 2 no. 5, p. 88 - 94",
+        "author": "",
+        "page": ""
+    },
+    {
+        "id": 98,
+        "month": "December",
+        "title": "C.N.A. Chapter & Club Reports",
+        "author": "",
+        "page": "244"
+    },
+    {
+        "id": 99,
+        "month": "December",
+        "title": "New Members, etc.",
+        "author": "",
+        "page": "246"
+    }
+]
