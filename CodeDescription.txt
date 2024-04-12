@@ -1,0 +1,66 @@
+Data_extraction folder:
+
+    index.php:
+
+        Description: This file serves as the main interface for accessing the coin indexed data.
+        Usage: Users need to include the <script> tag for "script.js" file in the same folder to enable dynamic functionality.
+        Dependencies: Requires "script.js" to be included.
+        Functionality: Displays coin indexed data and includes the necessary JavaScript functionality for dynamic updates.
+
+    save_json.php:
+
+        Description: This file is responsible for saving data in JSON format.
+        Usage: It is called internally from "script.js".
+        Dependencies: Utilizes JavaScript function(s) from "script.js".
+        Functionality: When triggered, typically by actions in "script.js", it downloads the "data.json" file.
+
+    script.js:
+        Description: JavaScript file containing dynamic functionality for the "index.php" file.
+        Usage: This file is included in "index.php" and provides interactivity to the webpage.
+        Dependencies: No external dependencies.
+        Functionality:
+        Communicates with the server-side PHP script ("save_json.php") to download the "data.json" file.
+
+OCR folder:
+
+    journals:
+        Contains all the journals pdf which needs to be proccessed for the OCR.
+    tesseract.py:
+        Description: Python script for performing Optical Character Recognition (OCR) on journals.
+        Usage: This script is executed to extract text data from journal images using Tesseract OCR.
+        Dependencies: Requires Tesseract OCR engine and its Python wrapper.
+        Functionality:
+        Reads journal images and extracts text content using Tesseract OCR.
+        Processes the extracted text data, potentially performing additional text cleaning or formatting.
+        Compiles the extracted text into a single JSON file named "fulljournalData.json".
+
+data.json:
+    Description: JSON file containing metadata for journal entries.
+    Usage: This file serves as a structured database for storing metadata related to journal entries.
+    Format:
+    Each entry follows a specific format with fields such as "id", "month", "title", "author", and "page".
+    Users need to manually add text data generated from "tesseract.py" to this file, correlating with the respective pages of the journals.
+    Functionality:
+    Provides a structured format for organizing metadata related to journal entries, facilitating easy retrieval and management.
+    Enables users to associate text data, generated from OCR, with specific journal entries based on their page numbers.
+    Users are responsible for manually updating this file with the OCR-generated text data in accordance with the page numbers of the journals.
+
+semantic_search.py:
+    Description: Python script for performing semantic search using Universal Sentence Encoder (USE) and BERT embeddings.
+    Dependencies:
+    TensorFlow: For the deep learning framework.
+    TensorFlow Hub: For accessing pre-trained USE models.
+    Hugging Face Transformers: For accessing pre-trained BERT models.
+    NumPy: For numerical operations.
+    PyTorch: Required indirectly by Hugging Face Transformers.
+    Usage:
+    Ensure that all required dependencies are installed.
+    Prepare a JSON file containing data with titles.
+    Update the json_file_path variable with the path to your JSON file.
+    Run the script and enter a query when prompted.
+    Functionality:
+    Loads pre-trained USE and BERT models for generating embeddings.
+    Loads the JSON file containing data with titles.
+    Computes embeddings for the titles using the pre-trained models.
+    Performs semantic search by finding titles with embeddings most similar to the query.
+    Returns the top results based on semantic similarity.
